@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title">
+  <title id="title">Avatar de colaborador</title>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#dbeafe"/>
+      <stop offset="1" stop-color="#c7d2fe"/>
+    </linearGradient>
+    <linearGradient id="shirt" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1e3a8a"/>
+      <stop offset="1" stop-color="#142b62"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="64" fill="url(#background)"/>
+  <path d="M21 128c3-25 20-39 43-39s40 14 43 39" fill="url(#shirt)"/>
+  <path d="M45 84c4 7 11 11 19 11s15-4 19-11l-5-13H50z" fill="#f1b991"/>
+  <path d="M39 53c0-20 10-32 25-32 17 0 26 13 26 33v9c0 18-12 31-26 31S39 81 39 63z" fill="#f4c5a1"/>
+  <path d="M38 55c-4-21 7-39 27-39 17 0 29 12 28 34-6-2-11-7-14-14-9 8-23 12-41 10z" fill="#243247"/>
+  <path d="M40 52c-7 0-10 5-8 12 1 5 5 8 10 8M88 52c7 0 10 5 8 12-1 5-5 8-10 8" fill="#f4c5a1"/>
+  <path d="M50 59h7M72 59h7" stroke="#243247" stroke-linecap="round" stroke-width="3"/>
+  <path d="M57 75c4 3 10 3 14 0" fill="none" stroke="#a85e52" stroke-linecap="round" stroke-width="2.5"/>
+</svg>
